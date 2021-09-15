@@ -1,0 +1,10 @@
+D:\HUSC\Kì I - Năm 4\Win-Form\Winform_Info\Winform_Info\bin\Debug\Winform_Info.exe.config
+D:\HUSC\Kì I - Năm 4\Win-Form\Winform_Info\Winform_Info\bin\Debug\Winform_Info.exe
+D:\HUSC\Kì I - Năm 4\Win-Form\Winform_Info\Winform_Info\bin\Debug\Winform_Info.pdb
+D:\HUSC\Kì I - Năm 4\Win-Form\Winform_Info\Winform_Info\obj\Debug\Winform_Info.csproj.AssemblyReference.cache
+D:\HUSC\Kì I - Năm 4\Win-Form\Winform_Info\Winform_Info\obj\Debug\Winform_Info.Form1.resources
+D:\HUSC\Kì I - Năm 4\Win-Form\Winform_Info\Winform_Info\obj\Debug\Winform_Info.Properties.Resources.resources
+D:\HUSC\Kì I - Năm 4\Win-Form\Winform_Info\Winform_Info\obj\Debug\Winform_Info.csproj.GenerateResource.cache
+D:\HUSC\Kì I - Năm 4\Win-Form\Winform_Info\Winform_Info\obj\Debug\Winform_Info.csproj.CoreCompileInputs.cache
+D:\HUSC\Kì I - Năm 4\Win-Form\Winform_Info\Winform_Info\obj\Debug\Winform_Info.exe
+D:\HUSC\Kì I - Năm 4\Win-Form\Winform_Info\Winform_Info\obj\Debug\Winform_Info.pdb
